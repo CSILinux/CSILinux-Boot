@@ -1,0 +1,1 @@
+The grub2 folder is for grub2 theme settings and configurations.
